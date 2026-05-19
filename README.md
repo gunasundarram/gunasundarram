@@ -1,6 +1,6 @@
 # Hey, I'm Ram👋
 
-**Data Analyst | M.Sc. NLP · University of Trier, Germany**
+**Data Analyst | M.Sc. NLP · Universität Trier, Germany**
 
 ---
 
