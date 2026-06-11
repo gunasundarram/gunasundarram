@@ -31,7 +31,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Recognition
 
 - 🏅 SAP Certified Data Analyst — SAP Analytics Cloud (2026)
 - 🏅 Microsoft Power BI Data Analyst Associate — PL-300 (2024)
