@@ -19,7 +19,7 @@
 
 ## 📂 Featured Projects
 
-> 🚧 Projects currently in development — check back soon.
+> 🚧 Projects 2, 3 & 4 are currently in development — check back soon.
 
 | 01 | [NHS Weekend Admissions — Readmission Risk Analysis](https://github.com/gunasundarram/01-nhs-weekend-admissions) | SQL · Excel · Tableau | Healthcare |
 
