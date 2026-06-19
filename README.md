@@ -33,10 +33,10 @@
 
 ## 📜 Certifications & Recognition
 
-- 🏅 SAP Certified Data Analyst - SAP Analytics Cloud (2026)
-- 🏅 SQL Advanced Certification - HackerRank (2026)
-- 🏅 Microsoft Power BI Data Analyst Associate - PL-300 (2024)
-- 🏆 Highako Intern of the Year 2022-23 Excellence Award - HighRadius (2023)
+- 🏅 Data Analyst in SAP Analytics Cloud  -  SAP Certified (2026)
+- 🏅 SQL Advanced Certification  -  HackerRank (2026)
+- 🏅 Microsoft Power BI Data Analyst PL 300  -  Microsoft (2024)
+- 🏆 Highako Intern of the Year 2022-23 Excellence Award  -  HighRadius (2023)
 
 ---
 
