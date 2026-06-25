@@ -1,3 +1,8 @@
+![Banner](banner.png)
+
+![Gunasundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunasundarram&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunasundarram&layout=compact&theme=github_dark&hide_border=true)
+
 # Hey, I'm Ram👋
 
 **Data Analyst | M.Sc. NLP · Universität Trier, Germany**
