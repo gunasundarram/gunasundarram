@@ -33,7 +33,7 @@ I turn messy operational data into decisions management can act on. Currently ba
 
 ---
 
-## 📜 Certifications & Recognition
+## 📜 Certifications
 
 - 🏅 Data Analyst in SAP Analytics Cloud  -  SAP Certified (2026)
 - 🏅 SQL Advanced Certification  -  HackerRank (2026)
