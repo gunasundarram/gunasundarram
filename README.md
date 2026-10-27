@@ -1,7 +1,8 @@
-![Banner](banner.png)
 # Hey, I'm Ram👋
 
-**Data Analyst | M.Sc. NLP · Universität Trier, Germany**
+**Data Analyst / BI Analyst | M.Sc. NLP Candidate @ Universität Trier**
+
+I turn messy operational data into decisions management can act on. Currently based in Trier, Germany, with 2+ years of experience in B2B fintech and operations analytics. 
 
 ---
 
@@ -36,8 +37,13 @@
 
 - 🏅 Data Analyst in SAP Analytics Cloud  -  SAP Certified (2026)
 - 🏅 SQL Advanced Certification  -  HackerRank (2026)
-- 🏅 Microsoft Power BI Data Analyst PL 300  -  Microsoft (2024)
-- 🏆 Highako Intern of the Year 2022-23 Excellence Award  -  HighRadius (2023)
+
+---
+
+### 💡 What I'm currently working on
+*   **Academics:** Pursuing my M.Sc. in Natural Language Processing at Universität Trier, expanding my toolkit with Machine Learning, Deep Learning, and Transformer models.
+*   **Languages:** Upskilling in German (Currently B1, Goethe-Zertifikat in progress).
+*   **Availability:** Open to Data/BI Analyst internships, working student roles, and entry-level positions.
 
 ---
 
