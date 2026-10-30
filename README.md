@@ -21,7 +21,7 @@ I turn messy operational data into decisions management can act on. Currently ba
 
 ## 📂 Featured Projects
 
-> 🚧 Projects 3 & 4 are currently in development — check back soon.
+> 🚧 Project 4 is currently in development — check back soon.
 
 | 01 | [NHS Weekend Admissions — Readmission Risk Analysis](https://github.com/gunasundarram/01-nhs-weekend-admissions) | SQL · Excel · Tableau | Healthcare |
 
@@ -35,8 +35,9 @@ I turn messy operational data into decisions management can act on. Currently ba
 
 ## 📜 Certifications
 
-- 🏅 Data Analyst in SAP Analytics Cloud  -  SAP Certified (2026)
-- 🏅 SQL Advanced Certification  -  HackerRank (2026)
+- 🏅 Data Analyst in SAP Analytics Cloud  -  SAP Certified (Jun 2026)
+- 🏅 SQL Advanced Certification  -  HackerRank (Oct 2026)
+- 🏅 Product and Engineering Internship  -  HighRadius (Apr 2022)
 
 ---
 
@@ -50,4 +51,4 @@ I turn messy operational data into decisions management can act on. Currently ba
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunasundarram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s2guchan@uni-trier.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gunasundar1729@gmail.com)
