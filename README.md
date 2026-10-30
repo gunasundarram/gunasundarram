@@ -25,7 +25,7 @@ I turn messy operational data into decisions management can act on. Currently ba
 |---|---|---|---|
 | 01 | [NHS Readmission Risk Analysis](https://github.com/gunasundarram/01-nhs-weekend-admissions) | SQL · Excel · Tableau | Healthcare |
 | 02 | [Olist Seller Survival Analysis](https://github.com/gunasundarram/02-olist-seller-survival) | SQL · Power BI | E-Commerce |
-| 03 | [HR Attrition Blindspot: why ratings miss flight risk](https://github.com/gunasundarram/03-hr-attrition-blindspot) | SQL · Power BI · DAX · Python | People Analytics |
+| 03 | [HR Attrition Blindspot: why ratings miss flight risk](https://github.com/gunasundarram/03-hr-attrition-blindspot) | Python · SQL · Power BI (DAX) | People Analytics |
 | 04 | Diabetes Risk Predictor (🚧 in progress) | Python · Scikit-learn · SHAP · Streamlit | Healthcare |
 
 ---
