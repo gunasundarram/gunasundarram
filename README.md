@@ -10,7 +10,7 @@ I turn messy operational data into decisions management can act on. Based in Tri
 
 | # | Project | Headline result | Stack |
 |---|---|---|---|
-| 01 | [NHS Readmission Risk Analysis](https://github.com/gunasundarram/01-nhs-weekend-admissions) | 13 NHS trusts sit at least 2.3 points above England's 14.7% readmission rate; closing the gap at the 3 costliest trusts is worth about £28.9M a year | PostgreSQL · Excel · Tableau |
+| 01 | [NHS Readmission Risk Analysis](https://github.com/gunasundarram/01-nhs-readmission-risk) | 13 NHS trusts sit at least 2.3 points above England's 14.7% readmission rate; closing the gap at the 3 costliest trusts is worth about £28.9M a year | PostgreSQL · Excel · Tableau |
 | 02 | [Olist Seller Survival Analysis](https://github.com/gunasundarram/02-olist-seller-survival) | Sellers with 6+ orders in their first 90 days are still selling at month 12 in 68.7% of cases, against 20.5% for one-order sellers | PostgreSQL · Power BI |
 | 03 | [The Attrition Blindspot](https://github.com/gunasundarram/03-hr-attrition-blindspot) | A performance rating shows no detectable attrition signal (16.4% vs 16.1%); overtime does (30.5% vs 10.4%). Risk score validated on unseen data | PostgreSQL · Power BI (DAX) · Python |
 
